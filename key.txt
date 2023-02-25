@@ -1,7 +1,0 @@
-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 - API key
-
-
-1050264095218-2mtg08dtu9hcgjivm75ppnc2gi68qo03.apps.googleusercontent.com - Google Web client ID
-
-
-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 - Google Web client Secret
